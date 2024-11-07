@@ -21,4 +21,5 @@ User Feedback: In future iterations, models might incorporate user feedback to l
 No Understanding: It doesn’t understand concepts or emotions as humans do. It's responses are based solely on patterns in the data it was trained on.
 Static Knowledge: It's knowledge is not updated in real-time. It has a cutoff date, and it doesn’t learn new information after that point unless retrained.
 Conclusion
-In essence, i simulates conversation and generate text by analyzing patterns in language data, using statistical methods to create coherent and contextually appropriate responses. While it can provide useful information and code generation, it lacks the conscious thought and awareness that characterize human cognition.
+
+In essence, it simulates conversation and generate text by analyzing patterns in language data, using statistical methods to create coherent and contextually appropriate responses. While it can provide useful information and code generation, it lacks the conscious thought and awareness that characterize human cognition.
