@@ -1,4 +1,4 @@
-## An AI language model like GPT (Generative Pre-trained Transformer), have got no "mind" in the human sense. Let's have a look how it process information and generate code or text. Here’s a simplified breakdown of how it works:
+## An AI language model like GPT (Generative Pre-trained Transformer), have got no "mind" in the human sense. Let's have a look how it processes information and generates code or text. Here’s a simplified breakdown of how it works:
 
 ## 1. Training Data
 Large Dataset: It's have been trained on a vast dataset that includes diverse sources of text, including books, websites, articles, and other written material.
