@@ -37,10 +37,11 @@ def relu_derivative(x):
     return np.where(x > 0, 1, 0)
 
 # Enhanced Neural Network Class with probabilistic and statistical concepts
+
 class ProbabilisticNeuralNetwork:
     def __init__(self, input_size, hidden_size, output_size):
         """
-        Initialize neural network with input, hidden, and output layers using probabilistic approaches.
+        Initializing neural network with input, hidden, and output layers using probabilistic approaches.
 
         - Probabilistic Weight Initialization:
           Weights are now initialized using a normal distribution with a small standard deviation.
@@ -143,7 +144,7 @@ class ProbabilisticNeuralNetwork:
             if epoch % 1000 == 0:
                 print(f'Epoch {epoch}, Loss: {loss}')
 
-# Define inputs and outputs for an AND gate
+# Defining inputs and outputs for an AND gate
 X = np.array([
     [0, 0],
     [0, 1],
@@ -158,10 +159,10 @@ y = np.array([
     [1]
 ])
 
-# Instantiate the enhanced neural network model
+# Instantiating the enhanced neural network model
 nn = ProbabilisticNeuralNetwork(input_size=2, hidden_size=4, output_size=1)
 
-# Train the model with probabilistic adjustments
+# Training the model with probabilistic adjustments
 nn.train(X, y, epochs=10000, learning_rate=0.1)
 
 # Making predictions
