@@ -22,8 +22,9 @@ No Understanding: It doesn’t understand concepts or emotions as humans do. It'
 Static Knowledge: It's knowledge is not updated in real-time. It has a cutoff date, and it doesn’t learn new information after that point unless retrained.
 Conclusion
 
-In essence, it simulates conversation and generate text by analyzing patterns in language data, using statistical methods to create coherent and contextually appropriate responses. While it can provide useful information and code generation, it lacks the conscious thought and awareness that characterize human cognition.
+In essence, it simulates conversation and generate text by analyzing patterns in language data, using statistical methods to create coherent and contextually appropriate responses. While it can provide useful information and code generation, it lacks the conscious thought and awareness that characterize human cognition
 
 ## Consistent approach to build Convolutional Neural Network from scratch 
-- Topic 1 : Building a simple Neural Network from scratch without using complex methods and ML tools. Implementing fundamental ML maths and numpy.
+- Topic 1 : Building a Simple Neural Network from scratch without using complex methods and ML tools. Implementing fundamental ML maths and numpy
+- Topic 2 : Enhancing a Simple Neural Network with Probabilistic and Statistical Methods
  
