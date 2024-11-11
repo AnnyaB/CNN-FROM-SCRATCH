@@ -181,4 +181,4 @@ print(predictions)
 #    - Forward pass + Backpropagation: O(N * (H + O)) for each epoch.
 #    - For E epochs, the total time complexity is: O(E * N * (H + O)).
 
-# With a high number of epochs and larger networks, this can become computationally expensive.
+# With a high number of epochs and larger networks, this can become computationally expensive.  
