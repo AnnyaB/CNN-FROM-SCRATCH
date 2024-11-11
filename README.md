@@ -44,7 +44,7 @@ Conclusion
 
 ##  In essence, AI language models generate text by analyzing language patterns, using statistical methods to produce coherent and contextually appropriate responses. While they provide useful information and code, they lack the conscious thought and awareness that characterize human cognition.
 
-## Consistent Approach to Building Neural Networks
+## Consistent Approach to Building Neural Networks (From NN to CNN [Convolutional Neural Network])
 - Topic 1: Building a Simple Neural Network from Scratch – Implementing Core ML Concepts with Fundamental Mathematics and Numpy
  
 - Topic 2: Enhancing a Simple Neural Network with Probabilistic and Statistical Methods
