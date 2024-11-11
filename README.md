@@ -47,5 +47,6 @@ Conclusion
 ## Consistent Approach to Building Neural Networks (From NN to CNN [Convolutional Neural Network])
 - Topic 1: Building a Simple Neural Network from Scratch – Implementing Core ML Concepts with Fundamental Mathematics and Numpy
  
-- Topic 2: Enhancing a Simple Neural Network with Probabilistic and Statistical Methods
- 
+- Topic 2: Enhancing a Simple Neural Network with Probabilistic and Statistical Methods 
+
+- Topic 3: Enhancing Neural Networks with Linear Algebra and Calculus for Improved Learning and Performance
